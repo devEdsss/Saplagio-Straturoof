@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url(fonts/Montserrat-VariableFont_wght.ttf);
+    font-weight: 400;
+}
+
+
+body {
+    font-family: 'Montserrat';
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    padding: 3rem;
+    margin-top: 100rem;
+    color: white;
+    
+}
+img {
+    width: 15%;
+}
+
+nav {
+    text-align: center;
+    background-color: #1F2A37;
+    padding: 2rem;
+    
+}
